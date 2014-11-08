@@ -1,1 +1,11 @@
-hey this is a new text file to test the git terminal :)
+hey 
+this
+is 
+the 
+insertion
+after
+inserting 
+a
+new 
+data 
+!!!1
